@@ -1,0 +1,206 @@
+{
+     "nodes": [
+          {
+               "id": "Mumbai",
+               "type": "metro",
+               "capacity": 100
+          },
+          {
+               "id": "Pune",
+               "type": "city",
+               "capacity": 80
+          },
+          {
+               "id": "Nagpur",
+               "type": "hub",
+               "capacity": 70
+          },
+          {
+               "id": "Nashik",
+               "type": "city",
+               "capacity": 60
+          },
+          {
+               "id": "Aurangabad",
+               "type": "city",
+               "capacity": 50
+          },
+          {
+               "id": "Ahmedabad",
+               "type": "metro",
+               "capacity": 95
+          },
+          {
+               "id": "Surat",
+               "type": "city",
+               "capacity": 85
+          },
+          {
+               "id": "Bhopal",
+               "type": "hub",
+               "capacity": 65
+          },
+          {
+               "id": "Indore",
+               "type": "city",
+               "capacity": 75
+          },
+          {
+               "id": "Jaipur",
+               "type": "hub",
+               "capacity": 90
+          },
+          {
+               "id": "Delhi",
+               "type": "metro",
+               "capacity": 110
+          },
+          {
+               "id": "Chandigarh",
+               "type": "city",
+               "capacity": 55
+          },
+          {
+               "id": "Lucknow",
+               "type": "city",
+               "capacity": 60
+          },
+          {
+               "id": "Varanasi",
+               "type": "city",
+               "capacity": 50
+          },
+          {
+               "id": "Patna",
+               "type": "hub",
+               "capacity": 70
+          },
+          {
+               "id": "Ranchi",
+               "type": "city",
+               "capacity": 65
+          },
+          {
+               "id": "Kolkata",
+               "type": "metro",
+               "capacity": 100
+          },
+          {
+               "id": "Bhubaneswar",
+               "type": "city",
+               "capacity": 60
+          },
+          {
+               "id": "Raipur",
+               "type": "city",
+               "capacity": 55
+          },
+          {
+               "id": "Hyderabad",
+               "type": "metro",
+               "capacity": 105
+          }
+     ],
+     "edges": [
+          {
+               "from": "Mumbai",
+               "to": "Pune",
+               "weight": 3
+          },
+          {
+               "from": "Pune",
+               "to": "Nagpur",
+               "weight": 4
+          },
+          {
+               "from": "Nagpur",
+               "to": "Raipur",
+               "weight": 5
+          },
+          {
+               "from": "Nashik",
+               "to": "Aurangabad",
+               "weight": 2
+          },
+          {
+               "from": "Aurangabad",
+               "to": "Nagpur",
+               "weight": 3
+          },
+          {
+               "from": "Ahmedabad",
+               "to": "Surat",
+               "weight": 2
+          },
+          {
+               "from": "Surat",
+               "to": "Mumbai",
+               "weight": 4
+          },
+          {
+               "from": "Indore",
+               "to": "Bhopal",
+               "weight": 3
+          },
+          {
+               "from": "Bhopal",
+               "to": "Nagpur",
+               "weight": 3
+          },
+          {
+               "from": "Jaipur",
+               "to": "Delhi",
+               "weight": 4
+          },
+          {
+               "from": "Delhi",
+               "to": "Lucknow",
+               "weight": 5
+          },
+          {
+               "from": "Lucknow",
+               "to": "Varanasi",
+               "weight": 3
+          },
+          {
+               "from": "Varanasi",
+               "to": "Patna",
+               "weight": 3
+          },
+          {
+               "from": "Patna",
+               "to": "Ranchi",
+               "weight": 2
+          },
+          {
+               "from": "Ranchi",
+               "to": "Kolkata",
+               "weight": 4
+          },
+          {
+               "from": "Kolkata",
+               "to": "Bhubaneswar",
+               "weight": 3
+          },
+          {
+               "from": "Bhubaneswar",
+               "to": "Raipur",
+               "weight": 4
+          },
+          {
+               "from": "Raipur",
+               "to": "Hyderabad",
+               "weight": 5
+          },
+          {
+               "from": "Indore",
+               "to": "Aurangabad",
+               "weight": 4
+          },
+          {
+               "from": "Surat",
+               "to": "Nashik",
+               "weight": 2
+          }
+     ]
+}

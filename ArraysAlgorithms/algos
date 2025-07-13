@@ -1,0 +1,152 @@
+📘 1. Searching
+Linear Search
+
+Binary Search (Iterative & Recursive)
+
+Ternary Search (Advanced)
+
+Exponential Search
+
+Interpolation Search
+
+📘 2. Sorting
+Bubble Sort
+
+Selection Sort
+
+Insertion Sort
+
+Merge Sort
+
+Quick Sort
+
+Heap Sort
+
+Counting Sort
+
+Radix Sort
+
+Bucket Sort
+
+Shell Sort
+
+🔄 🔍 Two Pointer Techniques
+Pair with Given Sum (2Sum)
+
+Move Zeroes to End
+
+Dutch National Flag Algorithm (Sort 0s, 1s, 2s)
+
+Reverse Array in-place
+
+Remove Duplicates from Sorted Array
+
+Trapping Rain Water
+
+Container with Most Water
+
+Longest Subarray with Sum ≤ K
+
+Merge Two Sorted Arrays
+
+🔄 🧮 Sliding Window Algorithms
+Maximum/Minimum in Sliding Window
+
+Longest Substring with At Most K Distinct Elements
+
+Maximum Sum Subarray of Size K
+
+Count Occurrences of Anagrams
+
+Smallest Subarray with Given Sum
+
+🧮 Prefix Sum / Difference Array
+Range Sum Queries (Optimized)
+
+Subarray Sum Equals K
+
+Prefix Sum for Fast Computation
+
+Difference Array for Range Updates
+
+🔁 Kadane's Algorithm (DP)
+Maximum Subarray Sum
+
+Maximum Circular Subarray Sum
+
+Maximum Product Subarray
+
+🔄 Array Rotations & Reversals
+Rotate Array by K (Naive & Optimized)
+
+Left/Right Rotate using Reversal Algorithm
+
+Cyclic Replacements (Juggling Algorithm)
+
+Block Swap Algorithm
+
+🧩 Rearrangement & Transformation
+Rearrange Positive and Negative Numbers
+
+Rearrange Array Elements to Max/Min Form
+
+Replace Each Element with Greatest on Right
+
+Next Permutation / Previous Permutation
+
+Sort Array of 0s, 1s and 2s
+
+🧠 Search in Rotated Array
+Search Element in Rotated Sorted Array
+
+Find Pivot in Rotated Array
+
+Count Rotations
+
+🧮 Bit Manipulation with Arrays
+Single Number (XOR Trick)
+
+Find Missing and Repeating Numbers
+
+Two Non-Repeating Elements
+
+Bitmask Based Subset Sums
+
+🧾 Hashing-Based Techniques
+Two Sum / 3 Sum / 4 Sum
+
+Longest Consecutive Subsequence
+
+Count Distinct Elements
+
+Count Pairs with Given XOR
+
+Subarrays with Equal Number of 0s and 1s
+
+📐 Matrix-Based Algorithms
+Rotate Matrix (90°, 180°)
+
+Search in Row-Wise and Column-Wise Sorted Matrix
+
+Spiral Order Traversal
+
+Diagonal Traversal
+
+Set Matrix Zeroes
+
+Transpose of Matrix
+
+📊 Advanced Array Algorithms
+Merge Intervals
+
+Median of Two Sorted Arrays
+
+Kth Smallest Element
+
+Maximum of All Subarrays of Size K
+
+Mo’s Algorithm (for Range Queries)
+
+XOR Queries in Range
+
+Convex Hull Trick (in Competitive Programming)
