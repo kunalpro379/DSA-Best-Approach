@@ -13,12 +13,12 @@ static class Edge{
     System.out.println("Prim's MST edges:");
     while(!pq.isEmpty()){
       int[] current=pq.poll();
-      int u=current[], w=current[];
-      vis=true;
-      totalWeight=true;
+      int u=current[0], w=current[1];
+      vis[u]=true;
+      totalWeight+=w;
       System.out.println("Include " + u + " with weight " + w);
       for(Edge e: adj.get(u)){
-        if(!vis[e.destiny]p=)pq.add(new int[](e.destiny, e.weight));
+        if(!vis[e.destiny])pq.add(new int[](e.destiny, e.weight));
       }
     }
     System.out.println("Total MST weight = " + totalWeight);
